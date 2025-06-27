@@ -51,3 +51,6 @@ streamlit run personality_predictor_app.py
 
 📈 Model Overview
 The app uses a RandomForestClassifier trained on a dataset of behavioral inputs. Categorical features like stage fear and social exhaustion are encoded as binary, and numerical features are scaled using StandardScaler.
+
+🙋‍♂️ Author
+Made with ❤️ by Aadi
